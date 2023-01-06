@@ -1,2 +1,2 @@
-# embedded
-Labs of  embedded system
+# Embedded system lab
+Include labs of embedded system
